@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Skill
-Programming Languages: Python, C and C++.
+- �Programming Languages: Python, C and C++.
 Frontend : Html, CSS, Bootstrap and React.
 Backend: Flask, Django and Php.
 Hardware Languages: PSPICE, VHDL and MATLAB
