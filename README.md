@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Programming Languages: Python, C and C++.
+Frontend : Html, CSS, Bootstrap and React.
+Backend: Flask, Django and Php.
+Hardware Languages: PSPICE, VHDL and MATLAB
+Data Essentials: MongoDB and MySQL
+Other: Microsoft Office, GitHub
+
