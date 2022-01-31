@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+Skill
 Programming Languages: Python, C and C++.
 Frontend : Html, CSS, Bootstrap and React.
 Backend: Flask, Django and Php.
