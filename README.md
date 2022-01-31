@@ -3,19 +3,21 @@
 **UX Developer and Designer | Engineering Undergrad**</br>
 ***I develop design experiences that makes people's life simple.***
 
+<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/banners.jpg"/>
+
 #### Skills
-- **Programming Languages** : Python, C and C++.
-- **Frontend** : Html, CSS, Bootstrap and React.
-- **Backend** : Flask, Django and Php.
-- **Hardware Languages** : PSPICE, VHDL and MATLAB
-- **DBMS Tools** : MongoDB and MySQL
-- **Other** : Microsoft Office, GitHub
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></br>
 
 
 <!--
-<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/Avtar.gif" width="500" height="350" />
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
