@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/Avtar.gif" width="500" height="350" />
+
 ## Hi there 👋
 ## I am Deepak Madhukar
 **UX Developer and Designer | Engineering Undergrad**</br>
