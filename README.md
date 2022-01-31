@@ -3,12 +3,12 @@
 ## UX Developer
 ### I develop design experiences that makes people's life simple
 ### Skill
-- Programming Languages : Python, C and C++.
-- Frontend : Html, CSS, Bootstrap and React.
-- Backend : Flask, Django and Php.
-- Hardware Languages : PSPICE, VHDL and MATLAB
-- Database tools : MongoDB and MySQL
-- Other : Microsoft Office, GitHub
+- **Programming Languages** : Python, C and C++.
+- **Frontend** : Html, CSS, Bootstrap and React.
+- **Backend** : Flask, Django and Php.
+- **Hardware Languages** : PSPICE, VHDL and MATLAB
+- **DBMS Tools** : MongoDB and MySQL
+- **Other** : Microsoft Office, GitHub
 
 
 <!--
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ### Projects
-[Lifestyle Store    ](https://github.com/deepak-madhukar/Lifestyle-Store)
+[**Lifestyle Store**](https://github.com/deepak-madhukar/Lifestyle-Store)
 [Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
 [E-Learn](https://github.com/deepak-madhukar/ELearn)
 [E-food](https://github.com/deepak-madhukar/EFood)
