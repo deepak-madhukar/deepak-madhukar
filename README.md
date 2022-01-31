@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ### Projects
-[Lifestyle Store](https://github.com/deepak-madhukar/Lifestyle-Store)
-[Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
+[Lifestyle Store](https://github.com/deepak-madhukar/Lifestyle-Store)->[Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
 [E-Learn](https://github.com/deepak-madhukar/ELearn)
 [E-food](https://github.com/deepak-madhukar/EFood)
 [Ear-Bot](https://github.com/deepak-madhukar/EarBot)
