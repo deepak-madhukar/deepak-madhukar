@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I am Deepak Madhukar
+## I develop design experiences that makes people's life simple
 
 <!--
 **deepak-madhukar/deepak-madhukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
