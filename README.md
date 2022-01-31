@@ -1,8 +1,9 @@
 ## Hi there 👋
 ## I am Deepak Madhukar
-## UX Developer
-### I develop design experiences that makes people's life simple
-### Skill
+**UX Developer and Designer | Engineering Undergrad**</br>
+***I develop design experiences that makes people's life simple.***
+
+#### Skills
 - **Programming Languages** : Python, C and C++.
 - **Frontend** : Html, CSS, Bootstrap and React.
 - **Backend** : Flask, Django and Php.
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ### Projects
-[**Lifestyle Store**](https://github.com/deepak-madhukar/Lifestyle-Store)
+[Lifestyle Store](https://github.com/deepak-madhukar/Lifestyle-Store)
 [Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
 [E-Learn](https://github.com/deepak-madhukar/ELearn)
 [E-food](https://github.com/deepak-madhukar/EFood)
