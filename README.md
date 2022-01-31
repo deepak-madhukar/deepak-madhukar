@@ -2,7 +2,7 @@
 ## I am Deepak Madhukar
 **UX Developer and Designer | Engineering Undergrad**</br>
 ***I develop design experiences that makes people's life simple.***
-
+</br></br>
 <img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/banners.jpg"/>
 
 #### Skills
@@ -17,9 +17,9 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></br></br>
 
-</br>
+
 ### Projects
 [Lifestyle Store](https://github.com/deepak-madhukar/Lifestyle-Store)
 [Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
@@ -28,6 +28,8 @@
 [Ear-Bot](https://github.com/deepak-madhukar/EarBot)
 [Alumina](https://github.com/deepak-madhukar/Alumini-Management)
 [Opexx](https://github.com/deepak-madhukar/Opexx)
+
+</br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
