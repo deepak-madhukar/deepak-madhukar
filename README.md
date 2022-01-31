@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/Avtar.gif" width="500" height="350" />
-
 ## Hi there 👋
 ## I am Deepak Madhukar
 **UX Developer and Designer | Engineering Undergrad**</br>
@@ -15,7 +13,8 @@
 
 
 <!--
-**deepak-madhukar/deepak-madhukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/Avtar.gif" width="500" height="350" />
+
 
 Here are some ideas to get you started:
 
