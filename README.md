@@ -36,5 +36,18 @@ Here are some ideas to get you started:
 [Alumina](https://github.com/deepak-madhukar/Alumini-Management)
 [Opexx](https://github.com/deepak-madhukar/Opexx)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Deepak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-madhukar&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Deepak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-madhukar" />
+
+</details>
 
 
