@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I am Deepak Madhukar
-**Engineering Graduate | Python Developer | UX Developer and Designer | **</br>
+**Engineering Graduate | Python Developer | UX Developer and Designer** </br>
 ***I develop and design experiences that makes people's life simple.***
 </br></br>
 <img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/banners.jpg"/>
