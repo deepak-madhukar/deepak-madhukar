@@ -1,48 +1,34 @@
-## Hi there 👋
-## I am Deepak Madhukar
-**Engineering Graduate | Python Developer | UX Developer and Designer** </br>
-***I develop and design experiences that makes people's life simple.***
-</br></br>
-<img align="right" alt="GIF" src="https://github.com/deepak-madhukar/deepak-madhukar/blob/main/banners.jpg"/>
+# Hi there! 👋
 
-#### Skills
-<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<img align="left"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="40" height="40"/> 
-<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></br></br>
+I'm Deepak Madhukar, an ML Engineer.
+I have a keen interest in contributing to open-source projects related to ML and data science.
+Welcome to my GitHub profile!
 
+## About Me 🚀
 
-### Projects
-[Lifestyle Store](https://github.com/deepak-madhukar/Lifestyle-Store)
-[Tutors Point](https://github.com/deepak-madhukar/Tutorspoint)
-[E-Learn](https://github.com/deepak-madhukar/ELearn)
-[E-food](https://github.com/deepak-madhukar/EFood)
-[Ear-Bot](https://github.com/deepak-madhukar/EarBot)
-[Alumina](https://github.com/deepak-madhukar/Alumini-Management)
-[Opexx](https://github.com/deepak-madhukar/Opexx)
+- 💻 I'm currently working as an ML Engineer, where I develop and deploy ML models to solve real-world problems.
+- 🌱 I'm always eager to learn and stay up-to-date with the latest advancements in the field of ML and AI.
+- 🔭 I’m currently working on enhancing my knowledge of natural language processing (NLP) techniques.
+- 📚 I enjoy reading research papers and exploring new datasets for exciting ML projects.
 
-</br>
+## Tech Stack 💻
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+- Programming Languages: Python (proficient), HTML, CSS.
+- Frameworks & Libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow.
+- Tools & Technologies: Git, Jupyter, VS Code.
 
-  <img align="left" alt="Deepak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-madhukar&show_icons=true&hide_border=true" />
+## Projects 🛠️
 
-</details>
+Here are some of my ML and data science projects hosted on GitHub:
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+- [CEM (Crowd Estimation and Mannagemennt](Link to Project 1): A Smart solution based on CSRnet to estimate crowd count.
 
-<img align="left" alt="Deepak's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-madhukar" />
+## Let's Connect 🤝
 
-</details>
+- 📧 You can reach me at [deepakm.ec18@nsut.ac.in].
+- 🌐 Visit my personal website/portfolio: [https://deepak-madhukar.github.io/].
+- 💼 Connect with me on LinkedIn: [www.linkedin.com/in/deepakmadhukar].
 
+Feel free to explore my repositories and projects. If you find any of them interesting or helpful, don't hesitate to give them a ⭐️!
 
+Thanks for visiting my GitHub profile. Looking forward to collaborating and learning from the open-source community. Have a great day! 😄
