@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 Here are some of my ML and data science projects hosted on GitHub:
 
-- [CEM (Crowd Estimation and Mannagemennt](https://github.com/deepak-madhukar/CEM.git): A Smart solution based on CSRnet to estimate crowd count.
+- [Crowd Estimation](https://github.com/deepak-madhukar/crowd_estimation.git): A Smart solution based on CSRnet to estimate crowd count.
 
 ## Let's Connect 🤝
 
