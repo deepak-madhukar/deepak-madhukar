@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Deepak Madhukar, an ML Engineer.
+I'm Deepak Madhukar, Data Scientist with ML experience.
 I have a keen interest in contributing to open-source projects related to ML and data science.
 Welcome to my GitHub profile!
 
