@@ -13,9 +13,11 @@ Welcome to my GitHub profile!
 
 ## Tech Stack 💻
 
-- Programming Languages: Python (proficient), HTML, CSS.
+- Programming Languages: Python.
 - Frameworks & Libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow.
-- Tools & Technologies: Git, Jupyter, VS Code.
+- ML Deployment Tools: Gradio, Flask, Docker
+- Version Control: Git, GitHub
+- Tools & Technologies: Jupyter, VS Code, Pycharm.
 
 ## Projects 🛠️
 
